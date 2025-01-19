@@ -1,6 +1,4 @@
-<img src="https://github.com/gerardoLlanosCortes/gerardoLlanosCortes/blob/main/github-header-image.png?raw=true" width="100%" height="150px" />
-
-<br/>
+<img src="https://github.com/gerardoLlanosCortes/gerardoLlanosCortes/blob/main/github-header-image.png?raw=true" width="100%" height="200px" />
 
 
 <h1 align="left">¡Hola! <img src="https://github.com/gerardoLlanosCortes/gerardoLlanosCortes/blob/48a65bd13de7a7765c5da59fd9b007f1f23e0cd5/wave.gif" width="30px" height="30px" /> Bienvenido a mi GitHub</h1>
