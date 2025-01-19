@@ -25,7 +25,7 @@
 
 - 🥈 Obtuve el segundo lugar en la **Hackatón de Duoc UC 2023**, destacando en el diseño y desarrollo de soluciones ante una problematica en poco tiempo.
 
-- 👨‍💻 Puedes conocer más sobre mis proyectos y experiencia en mi [**portafolio**](www.gerardollanos.dev).
+- 👨‍💻 Puedes conocer más sobre mis proyectos y experiencia en mi [**portafolio**](https://www.gerardollanos.dev) (www.gerardollanos.dev).
 
 - 📫 Puedes contactarme a través de mi correo **gerardollanos@protonmail.com**.
 
@@ -60,15 +60,13 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
-
 </div>
-
 
 <br/>
 
@@ -80,9 +78,9 @@
 
 <p align="left">  
 
-Proyectos reales: 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=RichText-Blog-Test-w-React-Node)](https://github.com/gerardoLlanosCortes/RichText-Blog-Test-w-React-Node)
 
-Proyectos de prueba: 
+
 
 </p>
 
