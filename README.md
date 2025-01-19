@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">👤 Sobre Mi</h2>
+<h2 align="left">👤 Sobre Mí</h2>
 
 ###
 
