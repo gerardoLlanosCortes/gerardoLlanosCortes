@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">💻 Sobre Mi</h2>
+<h2 align="left">👤 Sobre Mi</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 align="left">Mi Stack de Desarrollo</h2>
+<h2 align="left">🛠️ Mi Stack de Desarrollo</h2>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">📂 Proyectos Públicos</h2>
+<h2 align="left">🖥️ Proyectos Públicos</h2>
 
 ###
 
@@ -94,12 +94,24 @@
 </p>
 
 <br/>
-<br/>
+
+###
+
+<h2 align="left">📧 Estadísticas de Github</h2>
+
+###
+
+<div align="left"> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoLlanosCortes&langs_count=5)
+
+</div>
+
 <br/>
 
 ###
 
-<h2 align="left">💻 Contacto</h2>
+<h2 align="left">📧 Contacto</h2>
 
 ###
 
@@ -107,5 +119,5 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/gerardo-llanos-cortes/) 
 
-correo **gerardollanos@protonmail.com**.
+Correo: **gerardollanos@protonmail.com**.
 </div>
