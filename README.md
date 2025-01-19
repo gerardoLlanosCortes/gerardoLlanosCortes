@@ -100,7 +100,7 @@
 
 ###
 
-<h2 align="left">📧 Estadísticas de Github</h2>
+<h2 align="left">📈 Estadísticas de Github</h2>
 
 ###
 
