@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">💻 Proyectos</h2>
+<h2 align="left">📂 Proyectos Públicos</h2>
 
 ###
 
@@ -80,6 +80,27 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=RichText-Blog-Test-w-React-Node)](https://github.com/gerardoLlanosCortes/RichText-Blog-Test-w-React-Node)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-quill-Test-Completo-w-React-Nodejs)](https://github.com/gerardoLlanosCortes/React-quill-Test-Completo-w-React-Nodejs)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-Trello-Dnd)](https://github.com/gerardoLlanosCortes/React-Trello-Dnd)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-Webpay-Test)](https://github.com/gerardoLlanosCortes/React-Webpay-Test)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=Blog-React-MySQL)](https://github.com/gerardoLlanosCortes/Blog-React-MySQL)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-Node-Prueba-JWT-Simple)](https://github.com/gerardoLlanosCortes/React-Node-Prueba-JWT-Simple)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=NextJs-Ruby-on-Rails-Auth)](https://github.com/gerardoLlanosCortes/NextJs-Ruby-on-Rails-Auth)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=Nextjs15-i18n)](https://github.com/gerardoLlanosCortes/Nextjs15-i18n)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=NextJs-Simple-Location-Tracker)](https://github.com/gerardoLlanosCortes/NextJs-Simple-Location-Tracker)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=Awwward-website-clone)](https://github.com/gerardoLlanosCortes/Awwward-website-clone)
 
 
 </p>
