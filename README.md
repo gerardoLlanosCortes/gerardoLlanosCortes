@@ -78,9 +78,7 @@
 
 <p align="left">  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=RichText-Blog-Test-w-React-Node)](https://github.com/gerardoLlanosCortes/RichText-Blog-Test-w-React-Node)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-quill-Test-Completo-w-React-Nodejs)](https://github.com/gerardoLlanosCortes/React-quill-Test-Completo-w-React-Nodejs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=RichText-Blog-Test-w-React-Node)](https://github.com/gerardoLlanosCortes/RichText-Blog-Test-w-React-Node) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-quill-Test-Completo-w-React-Nodejs)](https://github.com/gerardoLlanosCortes/React-quill-Test-Completo-w-React-Nodejs)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gerardoLlanosCortes&repo=React-Trello-Dnd)](https://github.com/gerardoLlanosCortes/React-Trello-Dnd)
 
